@@ -16,6 +16,8 @@
 Create high-quality, realistic synthetic datasets for data analysis using Python's Faker library. 
 <br> Kaggle is great, but it rarely has exactly what you need for a GREAT portfolio project.
 
+[faker documentation:](https://faker.readthedocs.io/en/master/)
+
 ### -> [HOW TO use faker](https://www.youtube.com/watch?v=kjffmtKYxwY)
 
 ## 📋 Prerequisites
