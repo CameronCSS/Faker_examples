@@ -20,7 +20,7 @@ Create high-quality, realistic synthetic datasets for data analysis using Python
 - Python 3.8+
 - Faker Library
 - pandas (recommended)
-- Jupyter Notebook (optional, but recommended for exploration)
+- Jupyter Notebook (optional, but recommended for testing data creation)
 
 ## 🚀 Installation
 ```bash
